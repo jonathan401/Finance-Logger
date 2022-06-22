@@ -1,1 +1,1 @@
-This is the course project for the Typescript Tutorial by [Shaun Pelling](https://github.com/iamshaunjp) on the [netninja channel on youtube](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+This is the course project for the Typescript Tutorial by [Shaun Pelling](https://github.com/iamshaunjp) on his [netninja channel on youtube](https://youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
