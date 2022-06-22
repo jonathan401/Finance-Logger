@@ -75,6 +75,7 @@ button {
 footer a {
   text-align: center;
   display: block;
+  font-family: inherit;
   color: #999;
   margin-top: 40px;
   font-size: 0.7em;
